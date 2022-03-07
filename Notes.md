@@ -50,6 +50,8 @@ Bootstrap CSS Grid System [Link](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 [Part 8](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-8-4?module_item_id=464375)
 
+Understanding Mongoose Connection Options [Link](https://arunrajeevan.medium.com/understanding-mongoose-connection-options-2b6e73d96de1)
+
 [Part 9](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-8-8?module_item_id=464376)
 
 [Part 10](https://digitalskills.instructure.com/courses/3775/pages/our-first-full-stack-app-6-dot-8-12?module_item_id=464383)
