@@ -6,6 +6,8 @@
 
 [Part 1](https://digitalskills.instructure.com/courses/3775/pages/rest-rant-part1-6-dot-3-4?module_item_id=464461)
 
+Online .gitignore generator: [Link](https://www.toptal.com/developers/gitignore)
+
 [Part 2](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-3?module_item_id=464367)
 
 [Part 3](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-4?module_item_id=464378)
