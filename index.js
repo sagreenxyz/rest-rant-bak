@@ -17,4 +17,4 @@ app.get('*', (req, res) => {
    res.status(404).render('error404');
 });
 
-app.listen(process.env.PORT, () => {console.log(`Listening on port ${process.env.PORT}: http://localhost:${process.env.PORT} and http://localhost:${process.env.PORT}/places`)});
+app.listen(process.env.PORT, () => {console.log(`Listening on port ${process.env.PORT}: http://localhost:${process.env.PORT},  http://localhost:${process.env.PORT}/places and http://localhost:${process.env.PORT}/places/new`)});
