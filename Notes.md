@@ -38,6 +38,8 @@ Bootstrap CSS Grid System [Link](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 [Part 6](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-4?module_item_id=464466)
 
+#TODO:  Replace NavBar with Bootstrap Version of NavBar
+
 [Part 7](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-6?module_item_id=464465)
 
 [MongoDB Installation](https://digitalskills.instructure.com/courses/3775/pages/mongo-installation-6-dot-7-1?module_item_id=464302)
