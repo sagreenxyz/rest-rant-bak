@@ -3,7 +3,11 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-   res.send('Hello World!');
+   res.status(200).send('Hello World!');
 });
 
-app.listen(3000, () => {console.log('Listening on port 3000: http://localhost:3000')});
+app.get('*', (req, res) => {
+   res.status(404).send('<h1>404 Page</h1>');
+});
+
+app.listen(process.env.PORT, () => {console.log(`Listening on port ${process.env.PORT}: http://localhost:${process.env.PORT}`)});
