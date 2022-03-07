@@ -8,6 +8,8 @@
 
 Online .gitignore generator: [Link](https://www.toptal.com/developers/gitignore)
 
+Three routes created:  '/', '/places', and '*' as a catch-all.
+
 [Part 2](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-3?module_item_id=464367)
 
 [Part 3](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-4?module_item_id=464378)
