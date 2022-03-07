@@ -42,6 +42,8 @@ Bootstrap CSS Grid System [Link](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 [Part 7](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-6?module_item_id=464465)
 
+#TODO:  See Part Four: Jazz It Up! and Bonus
+
 [MongoDB Installation](https://digitalskills.instructure.com/courses/3775/pages/mongo-installation-6-dot-7-1?module_item_id=464302)
 
 [MongoDB Compass and Queries](https://digitalskills.instructure.com/courses/3775/pages/mongo-queries-6-dot-7-2?module_item_id=464453)
