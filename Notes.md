@@ -32,6 +32,10 @@ Bootstrap CSS Grid System [Link](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 [Part 5](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-2?module_item_id=464387)
 
+#TODO:  Add Sticky Footer
+
+#TODO:  Add State Dropdown
+
 [Part 6](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-4?module_item_id=464466)
 
 [Part 7](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-6?module_item_id=464465)
