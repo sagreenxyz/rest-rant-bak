@@ -6,14 +6,15 @@ router.get('/', (req, res) => {
         city: 'Seattle',
         state: 'WA',
         cuisines: 'Thai, Pan-Asian',
-        pic: 'http://placekitten.com/250/250'
+        pic: '/images/h-thai-ml-tables.jpg'
     }, {
         name: 'Coding Cat Cafe',
         city: 'Phoenix',
         state: 'AZ',
         cuisines: 'Coffee, Bakery',
-        pic: 'http://placekitten.com/250/250'
+        pic: '/images/coffee-cat.jpg'
     }]
+    // https://pixabay.com/photos/coffee-cafe-cat-milk-drink-hot-1711012/
     res.status(200).render('places/index', { places });
 });
 

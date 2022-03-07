@@ -26,6 +26,10 @@ Three routes created:  '/', '/places', and '*' as a catch-all.
 
 BootstrapCDN [Link](https://www.bootstrapcdn.com/)
 
+Coffee Cafe Cat Attribution:  [Link](https://pixabay.com/photos/coffee-cafe-cat-milk-drink-hot-1711012/)
+
+Bootstrap CSS Grid System [Link](https://getbootstrap.com/docs/4.0/layout/grid/)
+
 [Part 5](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-2?module_item_id=464387)
 
 [Part 6](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-4?module_item_id=464466)
