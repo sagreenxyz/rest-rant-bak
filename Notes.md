@@ -12,13 +12,13 @@ Three routes created:  '/', '/places', and '*' as a catch-all.
 
 #TODO:  Improve upon README.md, adding more content.  See instructions.
 
+[Part 2](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-3?module_item_id=464367)
+
 #TODO:  Write user stories.
 
 #TODO:  Draw wireframes.
 
 #TODO:  Choose color scheme.
-
-[Part 2](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-3?module_item_id=464367)
 
 [Part 3](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-4?module_item_id=464378)
 
