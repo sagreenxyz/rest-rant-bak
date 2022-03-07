@@ -33,8 +33,12 @@ router.get('/:id', (req, res) => {
         res.render('error404')
     }
     else {
-        res.render('places/show', { place: places[id] })
+        res.render('places/show', { place: places[id], id })
     }
+})
+
+router.get('/:id/edit', (req, res) => {
+    res.send(`GET places/:${req.params.id}/edit`)
 })
 
 module.exports = router;
