@@ -24,6 +24,8 @@ Three routes created:  '/', '/places', and '*' as a catch-all.
 
 [Part 4](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-4-6?module_item_id=464372)
 
+BootstrapCDN [Link](https://www.bootstrapcdn.com/)
+
 [Part 5](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-2?module_item_id=464387)
 
 [Part 6](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-5-4?module_item_id=464466)
