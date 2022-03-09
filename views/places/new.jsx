@@ -23,7 +23,7 @@ function new_form(data) {
                         </div>
                         <div className="form-group col-sm-6 col-md-4 col-lg-3">
                             <label htmlFor="founded">Founded Year</label>
-                            <input tyep="number" className="form-control" id="founded" name="founded" value={new Date().getFullYear()} />
+                            <input tyep="number" className="form-control" id="founded" name="founded" defaultValue={new Date().getFullYear()} />
                         </div>
                         <div className="form-group col-sm-6 col-md-4 col-lg-3">
                             <label htmlFor="pic">Place Picture</label>
@@ -42,7 +42,7 @@ function new_form(data) {
                             <input className="form-control" id="cuisines" name="cuisines" required />
                         </div>
                     </div>
-                    <input className="btn btn-primary" type="submit" value="Add Place" />
+                    <input className="btn btn-primary" type="submit" defaultValue="Add Place" />
                 </form>
             </main>
         </Def>
