@@ -54,6 +54,8 @@ Understanding Mongoose Connection Options [Link](https://arunrajeevan.medium.com
 
 [Part 9](https://digitalskills.instructure.com/courses/3775/pages/activity-6-dot-8-8?module_item_id=464376)
 
+#TODO:  Super Bonus - Use req.body Object to Pass Data to res.render() Method to Fill In Values for User Automatically
+
 [Part 10](https://digitalskills.instructure.com/courses/3775/pages/our-first-full-stack-app-6-dot-8-12?module_item_id=464383)
 
 [Part 11](https://digitalskills.instructure.com/courses/3775/pages/our-first-full-stack-app-6-dot-8-16?module_item_id=464385)
