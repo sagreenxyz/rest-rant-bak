@@ -14,7 +14,7 @@ function new_form() {
                         </div>
                         <div className="form-group col-sm-6 col-md-4 col-lg-3">
                             <label htmlFor="founded">Founded Year</label>
-                            <input className="form-control" id="founded" name="founded" />
+                            <input tyep="number" className="form-control" id="founded" name="founded" value={new Date().getFullYear()} />
                         </div>
                         <div className="form-group col-sm-6 col-md-4 col-lg-3">
                             <label htmlFor="pic">Place Picture</label>
